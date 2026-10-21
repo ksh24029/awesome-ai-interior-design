@@ -48,6 +48,7 @@ Commercial and hosted products are listed once in the category that best represe
 - [Renov](https://renov.space/) - Interactive room redesign with targeted edits, furniture replacement, and design guidance.
 - [RoomGPT](https://www.roomgpt.io/) - A focused single-photo room-restyling tool for quick concept exploration.
 - [Spacely AI](https://www.spacely.ai/) - Rendering and image-editing workspace for architects, interior designers, and real-estate teams.
+- [Spaceora](https://spaceora.app) - AI room and garden designer — redesign interiors, virtually stage, and plan landscapes from a single photo.
 
 ### 3D Planning and Professional Rendering
 
