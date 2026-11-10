@@ -47,6 +47,7 @@ Commercial and hosted products are listed once in the category that best represe
 - [REimagineHome](https://www.reimaginehome.ai/) - Guided photo-to-design workflows for interiors, landscaping, virtual staging, and decluttering.
 - [Renov](https://renov.space/) - Interactive room redesign with targeted edits, furniture replacement, and design guidance.
 - [RoomGPT](https://www.roomgpt.io/) - A focused single-photo room-restyling tool for quick concept exploration.
+- [RoomRedecor](https://roomredecor.com/) - Redesigns selected areas of a room photo with AI styles and a before-and-after comparison.
 - [Spacely AI](https://www.spacely.ai/) - Rendering and image-editing workspace for architects, interior designers, and real-estate teams.
 
 ### 3D Planning and Professional Rendering
