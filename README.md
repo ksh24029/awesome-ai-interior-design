@@ -51,6 +51,7 @@ Commercial and hosted products are listed once in the category that best represe
 
 ### 3D Planning and Professional Rendering
 
+- [3DRoomDesign.ai](https://3droomdesign.ai/) - Browser-based floor plan editor with AI conversion of plan images into editable 3D room layouts for furniture, finishes, and lighting studies.
 - [Coohom](https://www.coohom.com/) - Browser-based 3D floor planning, furnishing, rendering, and walkthrough creation with AI-assisted workflows.
 - [DecorMatters](https://decormatters.com/) - Mobile-first room planning and design community with AR, furniture placement, and AI makeovers.
 - [Homestyler](https://www.homestyler.com/) - Web and mobile tools for floor plans, furnishing, 3D rendering, and AI-assisted design.
